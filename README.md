@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/MIT- -blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Maven build check](https://github.com/kataLIN-UX/se-lab/actions/workflows/maven2.yml/badge.svg)](https://github.com/kataLIN-UX/se-lab/actions/workflows/maven2.yml)
 # SE Spaceship
 
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
